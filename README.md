@@ -63,5 +63,5 @@
 
 ---
 
-<h6 align="center">👇🏻 Here is a list of the Open Source projects I work on: 👇🏻</h6>
+<h6 align="center">👇🏻 Here is the list of projects I have worked on: 👇🏻</h6>
 

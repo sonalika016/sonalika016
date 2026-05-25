@@ -35,9 +35,7 @@
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=sonalika016&theme=algolia&show_icons=true&count_private=true&bg_color=1e2b3c&border_color=B2E0FF&icon_color=95ccff&border_radius=20&include_all_commits=true&rank_icon=percentile)
-
-<br>
+![](https://github-readme-stats-sigma-five.vercel.app/api?username=sonalika016&theme=algolia&show_icons=true&count_private=true&include_all_commits=true)
 
 </div>
 
@@ -47,10 +45,10 @@
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api/top-langs?username=sonalika016&show_icons=true&locale=en&layout=compact&theme=radical)
+![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sonalika016&layout=compact&theme=radical)
 
 </div>
- 
+
 
 ### 🔗 &nbsp;Contact Me
 
